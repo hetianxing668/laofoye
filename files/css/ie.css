@@ -1,0 +1,147 @@
+.more-hover {
+  background: url(../images/ie/trans.png);
+}
+#header {
+  background: url(../images/ie/black-60.png);
+}
+.light #header {
+  background: none;
+}
+.light .page-checkout #header,
+.light .adjust-action {
+  background: url(../images/ie/white-15.png);
+}
+.light.bridal #header {
+  background: url(../images/ie/white-70.png);
+}
+#block-cartierfo_commerce_checkout-checkout_indication .content,
+#l-expand .expand-playlist-content {
+  background: url(../images/ie/white-30.png);
+}
+.hover-info {
+  background: url(../images/ie/black-80.png);
+}
+.hover-info .model-name {
+  font-size: 13px;
+}
+.models-count {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}
+.light .hover-info {
+  background: url(../images/ie/white-70.png);
+}
+.page-checkout #header {
+  background: url(../images/ie/black-25.png);
+}
+.page-cart .line-item-engraving-form-inner .adjust-action {
+  border-top: 1px solid #51262f;
+}
+#modalContent .l-cartier-engraving-adjustement-modal .l-engraving-form .adjust-action,
+#modalContent .l-cartier-engraving-adjustement-modal .l-adjustment-form .adjust-action {
+  border-top: 1px solid #262626;
+  background: none;
+}
+.l-address-button,
+.bottom-link-block .bottom-link-block-footer,
+.bottom-link-block .bottom-link-block-body,
+#block-cartierfo_commerce_checkout-checkout_indication .content,
+.page-checkout .red .messages.status,
+#edit-commerce-payment-payment-method,
+.store-pushes li .push-title {
+  background: url(../images/ie/black-35.png);
+}
+.push-la-maison .push-content,
+.l-push-hover,
+#cartierfo-pages-line-homepage .push-content,
+.expand-playlist-content li a {
+  background: url(../images/ie/black-80.png);
+}
+.gallery li a {
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00000033,endColorstr=#000000A8);
+  /* color: #000000 + alpha: A8 (=66%) */
+
+}
+.light.bridal #cartierfo-pages-line-homepage .push-content {
+  background: #ffffff;
+}
+.store-pushes li .push-title:hover {
+  background: none;
+}
+.tabs-wrapper {
+  top: -37px;
+}
+.page-checkout .product .price-container .quantity,
+.page-checkout .product .price-container .unit-price,
+.page-checkout .product .price-container .price {
+  vertical-align: baseline;
+  line-height: 16px;
+}
+.red .form-text,
+.page-order .form-text {
+  background: none #3c1d22;
+}
+.form-type-textfield input {
+  line-height: 24px;
+}
+.l-gallery-for-slider {
+  overflow: hidden;
+}
+.l-gallery-for-slider.active {
+  overflow: visible!important;
+}
+.ctools-modal-content textarea {
+  min-height: 115px;
+}
+.homepage-content {
+  display: none;
+}
+.red-forgot {
+  background: url(../images/ie/black-35.png);
+}
+#cartierfo_commerce_taxes_estimation_wrapper-inner .form-item-zipcode {
+  float: left;
+}
+#cartierfo_commerce_taxes_estimation_wrapper-inner #edit-apply {
+  margin-top: 22px;
+}
+.view-cartierfo-wishlist .form-actions input.form-submit {
+  display: none;
+}
+.product-aesthetics .lovefont,
+.product-details .lovefont {
+  font-size: 13px;
+}
+.hp-slideshow .sl-previous {
+  background: url(../images/ie/black-35.png) no-repeat;
+}
+.hp-slideshow .sl-previous:hover {
+  background: url(../images/hp-slideshow-arrow-left.png) no-repeat center center;
+}
+.hp-slideshow .sl-next {
+  background: url(../images/ie/black-35.png) no-repeat;
+}
+.hp-slideshow .sl-next:hover {
+  background: url(../images/hp-slideshow-arrow-right.png) no-repeat center center;
+}
+.tooltip-title {
+  line-height: 14px;
+}
+.tooltip-content {
+  line-height: 14px;
+}
+.tooltip-title {
+  line-height: 14px;
+}
+.tooltip-content {
+  line-height: 14px;
+}
+.store-locator-filters .less-filter,
+.store-locator-filters .more-filter {
+  color: #1d1d1d;
+}
+#edit-cartier-order-summary-payment-method-cartierfo-commerce-checkout-order-summary-pane-country label {
+  display: block;
+}
+.commerce-price-formatted-components .component-total {
+  letter-spacing: 0;
+}
